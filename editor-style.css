@@ -1,0 +1,227 @@
+/****************************************
+  Editor Styles
+ ***************************************/
+ @import url('https://fonts.googleapis.com/css?family=Kaushan+Script|Merriweather:400,700|Montserrat:400,600,700');
+ @import url('css/fontawesome-all.min.css');
+
+#tinymce{
+    color: #222;
+    font-family: 'Merriweather', serif;
+    max-width: 750px;
+    width: 90%;
+    margin: 0 auto;
+} 
+
+#tinymce h1{
+    font-size: 3.125em;
+    font-weight: 400;
+    line-height: 1.264;
+    margin-bottom: 0.48em;
+}
+
+#tinymce h2{
+    font-size: 2.375em;
+    font-weight: 400;
+    line-height: 1.264;
+    margin-bottom: 0.6315em;
+}
+
+#tinymce h3{
+    font-size: 1.75em;
+    font-weight: 400;
+    line-height: 1.3;
+}
+
+#tinymce h4{
+    font-size: 1.3125em;
+    font-weight: 400;
+    line-height: 1.429;
+}
+
+#tinymce h5{
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 1.4;
+}
+
+#tinymce h6{
+    font-size: 0.75em;
+    font-weight: 400;
+    letter-spacing: 0.2em;
+}
+
+#tinymce h1,
+#tinymce h2,
+#tinymce h3,
+#tinymce h4,
+#tinymce h5{
+    font-family: 'Kaushan Script', cursive;
+}
+
+#tinymce h6{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#tinymce h3{
+    margin-bottom: 0.857em;
+}
+
+#tinymce h4{
+    margin-bottom: 1.142em;
+}
+
+#tinymce p{
+    font-size: 0.875em;
+    line-height: 1.715;
+    margin-bottom: 1.715em;
+}
+
+#tinymce p a{
+    text-decoration: none;
+}
+
+#tinymce .wp-caption{
+    text-align: center;
+}
+
+#tinymce ul,
+#tinymce ol{
+    margin: 1.5em 0 1.5em 25px;
+    list-style: none;
+    padding: 0;
+}
+
+#tinymce ol{
+    list-style-type: decimal;
+    list-style-position: inside;
+}
+
+#tinymce ul li,
+#tinymce ol li{
+    font-size: 0.875em;
+    line-height: 1.715;
+    padding-left: 25px;
+    position: relative;
+}
+
+#tinymce ol li{
+    padding-left: 0;
+}
+
+#tinymce ul li:before{
+    font-family: 'Font Awesome\ 5 Free';
+    content: "\f005";
+    font-weight: 400;
+    display: inline-block;
+    margin-left: -25px;
+    width: 25px;
+}
+
+#tinymce iframe{
+    max-width: 100%;
+}
+
+#tinymce img.alignnone{
+    display: block;
+    max-width: 100%;
+}
+
+#tinymce img.alignleft{
+    display: block;
+    max-width: 100%;
+    float: left;
+    margin: 0 2.5em 1.5em 0;
+}
+
+#tinymce img.alignright{
+    display: block;
+    max-width: 100%;
+    float: right;
+    margin: 0 0 1.5em 1.5em;
+}
+
+#tinymce img.aligncenter{
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+#tinymce .wp-caption{
+    margin-bottom: 1.5em;
+}
+
+#tinymce .wp-caption.alignleft{
+    float: left;
+    margin: 0 2.5em 1.5em 0;
+}
+
+#tinymce .wp-caption.alignright{
+    float: right;
+    margin: 0 0 1.5em 1.5em;
+}
+
+#tinymce .wp-caption.aligncenter{
+    display: block;
+    max-width: 100%;
+    margin: 0 auto 1.5em;
+}
+
+#tinymce .wp-caption .wp-caption-text{
+    text-align: center;
+    font-size: 1em;
+}
+
+#tinymce blockquote{
+    border-left-width: 3px;
+    border-left-style: solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    margin-bottom: 1.5em;
+    margin-left: 0;
+    font-family: 'Kaushan Script', cursive;
+}
+
+#tinymce blockquote p{
+    font-size: 1.3125em;
+    line-height: 1.3;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+#tinymce blockquote.v2{
+    border-left-width: 0;
+    padding: 0;
+    margin-bottom: 1.5em;
+}
+
+#tinymce .wp-video,
+#tinymce .wp-audio-shortcode{
+    margin-bottom: 1.5em;
+}
+
+#tinymce p.attachment{
+    text-align: center;
+}
+
+/* Colors */
+#tinymce{
+    color: #222;
+}
+
+#tinymce ul li:before,
+#tinymce p a,
+#tinymce p a{
+    color: #f364ba;
+}
+
+#tinymce blockquote{
+    border-color: #f364ba;
+    background-color: #faeef0;
+}
+
+#tinymce blockquote.v2{
+    background-color: transparent;
+    color: #f364ba;
+}

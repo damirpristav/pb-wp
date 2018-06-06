@@ -1,0 +1,56 @@
+#prt-pb-author-image-preview img{
+    border: 5px solid #faeef0;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+.prt-author-social-btn-div{
+    margin-bottom: 10px;
+}
+
+.prt-author-social-btn-div span{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    background-color: #f364ba;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+}
+
+.prt-author-social-btn-div input{
+    padding: 9.5px 10px;
+    min-width: 300px;
+}
+
+.prt-author-social-btn-div a.button{
+    height: 40px;
+    line-height: 38px;
+}
+
+#social-profiles-btn-wrap div{
+    border-top: 2px solid #aaa;
+    padding-top: 10px;
+}
+
+#social-profiles-btn-wrap div select,
+#social-profiles-btn-wrap div input{
+    display: block;
+    min-width: 300px;
+    margin-bottom: 10px;
+    padding: 10px;
+    height: auto;
+}
+
+@media (max-width: 782px){
+    .prt-author-social-btn-div span,
+    .prt-author-social-btn-div input{
+        margin-bottom: 5px;
+    }
+    .prt-author-social-btn-div input{
+        min-width: 1px;
+    }
+    .prt-author-social-btn-div a.button{
+        padding: 0 14px;
+    }
+}

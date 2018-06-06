@@ -1,0 +1,117 @@
+/****************************************
+  Transitions
+ ***************************************/
+#header .search form button,
+#header .social a,
+#header .search-mobile a,
+#main-menu a,
+#mobile-menu-trigger,
+#featured-slider .item .categories a,
+#featured-slider .item h2 a,
+.post .categories a,
+.post h2.post-title a,
+.post h4.post-title a,
+.post .post-meta a,
+.post footer .post-comments-number a,
+.related-posts .pb-related h4 a,
+.pb_social_widget .icons a,
+.widget_categories ul li a,
+.widget_archive ul li a,
+.pb_recent_posts_widget ul li h4 a,
+.widget_nav_menu ul li a,
+.widget_meta ul li a,
+.widget_pages ul li a,
+.widget_recent_comments ul li a,
+.widget_recent_entries ul li a,
+.widget_rss ul li a,
+.footer-social a,
+#header.version-2 .search-wrap a,
+#header.version-3 .search-wrap a,
+#featured-slider-2 .item .text-wrap h2.post-title a,
+#featured-slider-3 .item .text-wrap h2.post-title a,
+#featured-slider-4 .item .text-wrap h4.post-title a,
+#featured-slider-2 .item .text-wrap .categories a,
+#featured-slider-3 .item .text-wrap .categories a,
+.posts-container-grid .post h3.post-title a,
+.posts-container-masonry .post h3.post-title a,
+.posts-container-masonry-full-v1 .post h3.post-title a,
+.posts-container-masonry .page h3.post-title a,
+.posts-container-list .post h3.post-title a,
+#top-menu a,
+#title-box .social a,
+.nothing-found-section button,
+#title-box.v3 .post-meta a,
+#title-box.v3 .categories div a,
+.single-share-wrap .post-share a,
+.single-share-wrap .comments-num a,
+.about-post-author .author-info .author-social a,
+.comment-respond h4 small a,
+#title-box.v1 .post-meta a,
+#title-box.v1 .categories div a{
+    -webkit-transition: color 0.1s;
+    -o-transition: color 0.1s;
+    transition: color 0.1s;
+}
+
+#featured-slider-wrap .prev,
+#featured-slider-wrap .next,
+.post footer .read-more-wrap a,
+.page > .read-more-wrap a,
+.post .read-more-wrap a,
+.pb-navigation a,
+.post-tags a,
+.comment-respond .form-submit input,
+.wpcf7 form p input[type="submit"]{
+    -webkit-transition: background 0.1s;
+    -o-transition: background 0.1s;
+    transition: background 0.1s;
+}
+
+.jetpack_subscription_widget #subscribe-submit input,
+.null-instagram-feed p.clear a,
+.widget_tag_cloud .tagcloud a,
+#subscribe-to-newsletter form button,
+.comment .comment-body .reply a,
+.recipe-wrap .buttons a,
+#instagram-wrap a.instagram-follow-btn{
+    -webkit-transition: background 0.1s, color 0.1s;
+    -o-transition: background 0.1s, color 0.1s;
+    transition: background 0.1s, color 0.1s;
+}
+
+.post .featured-image .owl-gallery span.prev,
+.post .featured-image .owl-gallery span.next,
+.featured-image .owl-gallery span.prev,
+.featured-image .owl-gallery span.next,
+.related-posts .pb-related .overlay,
+.related-posts .pb-related .va-col,
+.null-instagram-feed .instagram-pics li a img,
+.pb_recent_posts_widget ul li .image-box a img,
+#featured-slider-wrap .prev-2,
+#featured-slider-wrap .prev-3,
+#featured-slider-wrap .prev-4,
+#featured-slider-wrap .next-2,
+#featured-slider-wrap .next-3,
+#featured-slider-wrap .next-4,
+#featured-slider-2 .item .text-wrap,
+.my-gallery-container .my-photo .photo-overlay,
+.gallery .gallery-item a,
+#instagram-wrap .pb-instagram-boxes img{
+    -webkit-transition: opacity 0.1s;
+    -o-transition: opacity 0.1s;
+    transition: opacity 0.1s;
+}
+
+.my-gallery-container .my-photo a{
+    -webkit-transition: margin 0.2s;
+    -o-transition: margin 0.2s;
+    transition: margin 0.2s;
+}
+
+#mobile-menu-wrap{
+    -webkit-transition: left .4s;
+    -moz-transition: left .4s;
+    -o-transition: left .4s;
+    transition: left .4s;
+}
+/* ****** END Transitions ****** */

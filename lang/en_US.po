@@ -1,0 +1,2783 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-06-02 16:49+0200\n"
+"PO-Revision-Date: 2018-06-02 16:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural;"
+"translate\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:21
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:22
+msgid "Sorry but the page you are lookink for doesn't exist!"
+msgstr ""
+
+#: 404.php:23
+msgid "Go back home"
+msgstr ""
+
+#: archive.php:17
+msgid "Daily Archives"
+msgstr ""
+
+#: archive.php:19
+msgid "Monthly Archives"
+msgstr ""
+
+#: archive.php:21
+msgid "Yearly Archives"
+msgstr ""
+
+#: archive.php:23
+msgid "archives"
+msgstr ""
+
+#: archive.php:32 archive.php:35 archive.php:38
+#: partials/category/category-v1.php:22 partials/category/category-v2.php:16
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: author.php:13
+msgid "All posts by"
+msgstr ""
+
+#: comments.php:18
+msgid "One comment"
+msgstr ""
+
+#: comments.php:25 comments.php:44
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:26 comments.php:45
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:27 comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:62
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: comments.php:67 comments.php:70
+msgid "Name"
+msgstr ""
+
+#: comments.php:73 comments.php:76
+msgid "Email"
+msgstr ""
+
+#: comments.php:79 comments.php:81
+msgid "Website"
+msgstr ""
+
+#: comments.php:85
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:89
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:93
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:99
+msgid "Comment"
+msgstr ""
+
+#: comments.php:100
+msgid "Your message"
+msgstr ""
+
+#: functions.php:152
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:153
+msgid "Top Menu - only in header version 3"
+msgstr ""
+
+#: functions.php:170 includes/customizer/customizer-sections.class.php:193
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:172
+msgid "Main widgets area."
+msgstr ""
+
+#: functions.php:1224
+msgid "PinkButterflies Documentation"
+msgstr ""
+
+#: functions.php:1252
+msgid "Welcome to PinkButterflies!"
+msgstr ""
+
+#: functions.php:1320
+msgid ""
+"NOTICE: After you click Import Demo Data button, new posts, pages, widgets "
+"and options from our demo site will be added to your page but your old "
+"posts, pages and options won't be deleted. If you want your site to look "
+"exactly like our demo site first delete all posts and pages and remove all "
+"widgets from widgets areas."
+msgstr ""
+
+#: header-v2.php:34 header-v3.php:44 header-v4.php:22 header.php:46
+msgid "Menu"
+msgstr ""
+
+#: includes/category-meta/category-meta.class.php:20
+#: includes/category-meta/category-meta.class.php:49
+msgid "Image"
+msgstr ""
+
+#: includes/category-meta/category-meta.class.php:24
+#: includes/category-meta/category-meta.class.php:59
+msgid "Add Image"
+msgstr ""
+
+#: includes/category-meta/category-meta.class.php:25
+#: includes/category-meta/category-meta.class.php:60
+msgid "Remove Image"
+msgstr ""
+
+#: includes/category-meta/category-meta.class.php:27
+#: includes/category-meta/category-meta.class.php:62
+msgid "Choose an image for this category."
+msgstr ""
+
+#: includes/category-meta/category-meta.class.php:30
+#: includes/category-meta/category-meta.class.php:68
+#: includes/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: includes/category-meta/category-meta.class.php:32
+#: includes/category-meta/category-meta.class.php:72
+#: includes/custom-meta/custom-meta.class.php:115
+#: includes/custom-meta/custom-meta.class.php:184
+#: includes/customizer/customizer-settings.class.php:54
+#: includes/customizer/customizer-settings.class.php:102
+msgid "Version 1"
+msgstr ""
+
+#: includes/category-meta/category-meta.class.php:34
+#: includes/category-meta/category-meta.class.php:74
+#: includes/custom-meta/custom-meta.class.php:117
+#: includes/custom-meta/custom-meta.class.php:186
+#: includes/customizer/customizer-settings.class.php:55
+#: includes/customizer/customizer-settings.class.php:103
+msgid "Version 2"
+msgstr ""
+
+#: includes/category-meta/category-meta.class.php:63
+msgid "Only available in Version 1."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:393
+#: includes/class-tgm-plugin-activation.php:912
+#: includes/class-tgm-plugin-activation.php:2618
+#: includes/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:394
+#: includes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:395
+#: includes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1019
+#: includes/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1206
+#: includes/class-tgm-plugin-activation.php:3033
+msgid "and"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2473
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3594
+#: includes/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3594
+#: includes/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/custom-meta/custom-meta.class.php:27
+msgid "Featured Post"
+msgstr ""
+
+#: includes/custom-meta/custom-meta.class.php:44
+msgid "Add post to featured slider ?"
+msgstr ""
+
+#: includes/custom-meta/custom-meta.class.php:47
+msgid "No"
+msgstr ""
+
+#: includes/custom-meta/custom-meta.class.php:49
+msgid "Yes"
+msgstr ""
+
+#: includes/custom-meta/custom-meta.class.php:95
+msgid "Single Post Version"
+msgstr ""
+
+#: includes/custom-meta/custom-meta.class.php:112
+msgid "Choose single post version:"
+msgstr ""
+
+#: includes/custom-meta/custom-meta.class.php:119
+#: includes/custom-meta/custom-meta.class.php:188
+#: includes/customizer/customizer-settings.class.php:56
+#: includes/customizer/customizer-settings.class.php:104
+msgid "Version 3"
+msgstr ""
+
+#: includes/custom-meta/custom-meta.class.php:164
+msgid "Post/Page Header Version"
+msgstr ""
+
+#: includes/custom-meta/custom-meta.class.php:181
+msgid "Choose this post/page header version:"
+msgstr ""
+
+#: includes/custom-meta/custom-meta.class.php:190
+#: includes/customizer/customizer-settings.class.php:57
+#: includes/customizer/customizer-settings.class.php:105
+msgid "Version 4"
+msgstr ""
+
+#: includes/customizer/customizer-custom-controls.class.php:56
+msgid "Add New Icon"
+msgstr ""
+
+#: includes/customizer/customizer-custom-controls.class.php:85
+msgid "URL"
+msgstr ""
+
+#: includes/customizer/customizer-custom-controls.class.php:102
+#: includes/user-fields/user-fields.class.php:98
+msgid "-- Select --"
+msgstr ""
+
+#: includes/customizer/customizer-custom-controls.class.php:110
+msgid "Copy your Profile URL here"
+msgstr ""
+
+#: includes/customizer/customizer-custom-controls.class.php:111
+#: includes/user-fields/user-fields.class.php:106
+msgid "Save"
+msgstr ""
+
+#: includes/customizer/customizer-custom-controls.class.php:112
+#: includes/user-fields/user-fields.class.php:107
+msgid "Cancel"
+msgstr ""
+
+#: includes/customizer/customizer-custom-controls.class.php:199
+msgid "Change Font Weight & Style"
+msgstr ""
+
+#: includes/customizer/customizer-panels.class.php:13
+msgid "PB: Colors"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:11
+msgid "PB: Header"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:18
+msgid "PB: Social Icons"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:25
+msgid "PB: Featured Posts"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:32
+msgid "PB: Blog Layouts"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:39
+msgid "PB: Posts"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:46
+msgid "PB: Navigation"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:53
+msgid "PB: Subscription"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:60
+msgid "PB: Footer"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:67
+msgid "PB: Fonts"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:74
+msgid "PB: Other"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:81
+msgid "Main"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:88
+msgid "Header"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:95
+msgid "Mobile Menu"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:102
+msgid "Lightbox"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:109
+msgid "Featured Slider"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:116
+msgid "Subscribe To Newsletter"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:123
+msgid "Title Box"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:130
+msgid "Posts"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:137
+msgid "Single Post"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:144
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:151
+msgid "Recipe Card"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:158
+msgid "Comments"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:165
+msgid "Photo Gallery"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:172
+#: partials/content-none.php:2
+msgid "Nothing Found"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:179
+msgid "Navigation"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:186
+msgid "404 Page"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:200
+msgid "Instagram Section"
+msgstr ""
+
+#: includes/customizer/customizer-sections.class.php:207
+msgid "Footer"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:18
+msgid "Change Logo"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:30
+msgid "Only for header version 2."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:32
+msgid "Header Image"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:48
+msgid "Change header version"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:50
+msgid "Header Version"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:70
+msgid "Social Profiles"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:82
+msgid "Hide featured slider"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:84
+msgid "Hide Slider"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:96
+msgid "Change slider version"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:98
+msgid "Featured Slider Version"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:116
+msgid "Change blog layout"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:118
+msgid "Blog Layout"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:122
+msgid "Standard"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:123
+msgid "Standard - Sidebar Left"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:124
+msgid "Standard - No Sidebar"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:125
+msgid "First Standard - Other Grid"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:126
+msgid "First Standard - Other Grid - Sidebar Left"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:127
+msgid "First Standard - Other Grid - No Sidebar"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:128
+msgid "Grid"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:129
+msgid "Grid - Sidebar Left"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:130
+msgid "Grid Full Width"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:131
+msgid "List"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:132
+msgid "List - Sidebar Left"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:133
+msgid "List - No Sidebar"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:134
+msgid "Masonry"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:135
+msgid "Masonry - Sidebar Left"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:136
+msgid "Masonry Full Width"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:137
+msgid "Masonry Version 2"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:151
+msgid ""
+"If single post does not have featured image default image will be use as "
+"background image on single post version 1 in title box"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:153
+msgid "Change Single Post Default Image"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:165
+msgid "Hide categories section on posts"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:167
+msgid "Hide Categories"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:179
+msgid "Hide post meta section on posts"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:181
+msgid "Hide Post Date & Author"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:193
+msgid "Hide post comments number section on posts"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:195
+msgid "Hide Number of Comments"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:207
+msgid "Hide post share buttons section on posts"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:209
+msgid "Hide Share Post Buttons"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:221
+msgid "Hide read more section on posts"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:223
+msgid "Hide Read More Button"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:235
+msgid "Hide categories section on single post"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:237
+msgid "Hide Categories on Single Post"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:249
+msgid "Hide post meta section on single post"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:251
+msgid "Hide Post Date & Author on Single Post"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:263
+msgid "Hide post tags section on single post"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:265
+msgid "Hide Post Tags"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:277
+msgid "Hide post comments number section on single post"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:279
+msgid "Hide Number of Comments on Single Post"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:291
+msgid "Hide post share buttons section on single post"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:293
+msgid "Hide Share Post Buttons on Single Post"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:305
+msgid "Hide related posts section on single post"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:307
+msgid "Hide Related Posts"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:319
+msgid "Hide about author section on single post"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:321
+msgid "Hide About Author Section"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:336
+msgid "Change navigation version"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:338
+msgid "Navigation Version"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:342
+#: includes/customizer/customizer-settings.class.php:375
+msgid "Version 1 - Newer & Older"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:343
+#: includes/customizer/customizer-settings.class.php:376
+msgid "Version 2 - Numbers"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:344
+#: includes/customizer/customizer-settings.class.php:377
+msgid "Version 3 - Load More Button"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:355
+msgid ""
+"Number of posts to load when navigation version 3 is selected and load more "
+"button is clicked"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:357
+msgid "Number of Posts to Load"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:369
+msgid "Change Navigation Version on Archive Pages & Search Page"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:371
+msgid "Navigation Version on Archive Pages & Search Page"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:388
+msgid ""
+"Number of posts to load when navigation version 3 is selected and load more "
+"button is clicked on archive pages"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:390
+msgid "Number of Posts to Load on Archive Pages"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:404
+#: includes/post-partials/post-partials.class.php:818
+msgid "Thanks for visiting! We are so happy to have you."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:405
+#: includes/customizer/customizer-settings.class.php:419
+#: includes/customizer/customizer-settings.class.php:433
+msgid "If empty, theme default text will be used"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:407
+msgid "Subscription Heading 3 Text"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:418
+#: includes/post-partials/post-partials.class.php:819
+msgid "Let's stay in touch"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:421
+msgid "Subscription Heading 6 Text"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:432
+#: includes/post-partials/post-partials.class.php:820
+msgid ""
+"Subscribe for the latest news and updates delivered straight to your inbox."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:435
+msgid "Subscription Paragraph Text"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:447
+msgid ""
+"Copy your mailchimp generated shortcode here. If this field is empty "
+"subscription section will not be visible."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:449
+msgid "Mailchimp Shortcode"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:461
+msgid ""
+"Choose subscription section position. On single posts and pages and archive "
+"pages position will always be before footer."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:463
+msgid "Position of subscription section"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:467
+msgid "After Header & Featured Slider"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:468
+msgid "Before Footer"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:479
+msgid "Hide subscription section on blog page"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:481
+msgid "Hide Subscription Section"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:495
+msgid "Hide Subscription Section on Single Post or Page"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:507
+msgid "Archive pages are category, tag, author and date based pages."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:509
+msgid "Hide Subscription Section on Archive Pages & Search Results Page"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:526
+msgid "Footer text"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:541
+msgid "Change Font Family. Default: Merriweather"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:543
+msgid "Body Font"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:559
+#: includes/customizer/customizer-settings.class.php:671
+#: includes/customizer/customizer-settings.class.php:725
+msgid "Change Font Family. Default: Kaushan Script"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:561
+msgid "Headings Font"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:577
+#: includes/customizer/customizer-settings.class.php:595
+#: includes/customizer/customizer-settings.class.php:650
+#: includes/customizer/customizer-settings.class.php:743
+#: includes/customizer/customizer-settings.class.php:779
+msgid "Change Font Family. Default: Montserrat"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:579
+msgid "Heading 6 Font"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:597
+msgid "Menu Font"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:613
+#: includes/customizer/customizer-settings.class.php:631
+#: includes/customizer/customizer-settings.class.php:689
+#: includes/customizer/customizer-settings.class.php:707
+#: includes/customizer/customizer-settings.class.php:761
+msgid "Change Font Family. Default: Shadows Into Light Two"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:615
+msgid "Menu Font on Header Version 3"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:633
+msgid "Categories Font"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:652
+msgid "Buttons Font"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:673
+msgid "Quotes Font"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:691
+msgid "Title Box Paragraph before Heading Font"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:709
+msgid "Recipe Box Headings Font"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:727
+msgid "Recipe Box Instructions Steps Number Font"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:745
+msgid "404 Page Heading 1 Font"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:763
+msgid "Calendar Widget Font"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:781
+msgid "Footer Text Font"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:836
+msgid ""
+"If category version 1 does not have image set, default image will be use as "
+"background image on category version 1 templates"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:838
+msgid "Change Category Version 1 Default Background Image"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:852
+msgid "404 Page Background Image"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:868
+msgid ""
+"Copy your fontawesome icon name here. You can check this <a href=\"https://"
+"fontawesome.com/icons?d=gallery&m=free\" target=\"_blank\">page</a> for icon "
+"names."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:870
+msgid "List layout Icon name when no featured image"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:882
+msgid ""
+"Copy your Instagram username here. You need to have at least 6 images in "
+"your instagram account."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:884
+msgid "Instagram username"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:896
+msgid ""
+"Change instagram section version. If you have less than 14 images version 1 "
+"will be used, even if you select version 2."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:898
+msgid "Instagram Section Version"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:902
+msgid "Version 1, 6 images"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:903
+msgid "Version 2, 11 images"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:919
+msgid "Change body background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:921
+msgid "Body Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:939
+msgid "Change form input fields placeholder color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:941
+msgid "Form Inputs Placeholder Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:954
+msgid "Change header background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:956
+msgid "Header Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:972
+msgid "Change header text color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:974
+msgid "Header Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:991
+msgid "Change header text mouse over color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:993
+msgid "Header Text Mouse Over Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1011
+msgid ""
+"Change header version 1 border top color & dropdown menu border top color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1013
+msgid "Header Version 1 Border Top Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1029
+msgid ""
+"Change header main navigation border color. header search form border color "
+"& header version 4 logo section border color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1031
+msgid "Header Main Navigation Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1047
+msgid "Change header version 4 main navigation background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1049
+msgid "Header Version 4 Navigation Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1065
+msgid "Change header version 2 & 4 search forms border top color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1067
+msgid "Header Version 2 & 4 Search Form Border Top Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1083
+msgid "Change header dropdown menu background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1085
+msgid "Dropdown Menu Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1101
+msgid "Change header dropdown menu items border bottom color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1103
+msgid "Dropdown Menu Item Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1119
+msgid "Change header version 3 navigation border top color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1121
+msgid "Header V3 Navigation Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1137
+msgid ""
+"Change header version 2 overlay background color on background image section."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1139
+msgid "Header V2 Overlay Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1155
+msgid "Change header version 3 top bar background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1157
+msgid "Header V3 Top Bar Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1174
+msgid "Change mobile menu overlay background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1176
+#: includes/customizer/customizer-settings.class.php:1303
+msgid "Overlay Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1192
+msgid "Change mobile menu background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1194
+#: includes/customizer/customizer-settings.class.php:1527
+msgid "Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1210
+msgid "Change mobile menu items border bottom color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1212
+msgid "Menu Items Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1228
+msgid "Change mobile menu text color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1230
+#: includes/customizer/customizer-settings.class.php:1321
+#: includes/customizer/customizer-settings.class.php:1394
+#: includes/customizer/customizer-settings.class.php:1545
+#: includes/customizer/customizer-settings.class.php:1908
+#: includes/customizer/customizer-settings.class.php:2674
+#: includes/customizer/customizer-settings.class.php:2820
+#: includes/customizer/customizer-settings.class.php:3002
+#: includes/customizer/customizer-settings.class.php:3367
+#: includes/customizer/customizer-settings.class.php:3585
+#: includes/customizer/customizer-settings.class.php:3994
+msgid "Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1246
+msgid "Change mobile menu selected item text color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1248
+msgid "Selected Item Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1264
+msgid "Change mobile close submenu text color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1266
+msgid "Submenu Close Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1282
+msgid "Change submenu(third level menu) from submenu border top color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1284
+msgid "Third Level Menu Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1301
+msgid "Change lightbox overlay background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1319
+msgid "Change lightbox text color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1338
+msgid "Change featured slider container background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1340
+msgid "Container Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1356
+msgid "Change featured slider version 3 container background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1358
+msgid "V3 Container Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1374
+msgid "Change featured slider container border color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1376
+msgid "Container Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1392
+msgid "Change featured slider text color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1413
+msgid "Change featured slider previous and next button background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1415
+msgid "Previous & Next Button Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1432
+msgid ""
+"Change featured slider version 1 previous and next button background color "
+"on mouse over."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1434
+msgid "V1 Previous & Next Button Background Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1450
+msgid "Change featured slider text color on mouse over."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1452
+msgid "Text Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1470
+msgid "Change featured slider v2 and v3 text box background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1472
+msgid "V2 & V3 Text Box Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1488
+msgid "Change featured slider v2 and v3 text box border color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1490
+msgid "V2 & V3 Text Box Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1506
+msgid "Change featured slider v4 text box background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1508
+msgid "V4 Text Box Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1525
+msgid "Change subscribe to newsletter background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1543
+msgid "Change subscribe to newsletter text color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1562
+msgid "Change subscribe to newsletter border color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1564
+#: includes/customizer/customizer-settings.class.php:2856
+#: includes/customizer/customizer-settings.class.php:3020
+msgid "Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1580
+msgid "Change subscribe to newsletter input fields background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1582
+msgid "Input Field Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1598
+msgid "Change subscribe to newsletter button background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1600
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1616
+msgid "Change subscribe to newsletter button text color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1618
+#: includes/customizer/customizer-settings.class.php:2729
+#: includes/customizer/customizer-settings.class.php:3621
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1634
+msgid "Change subscribe to newsletter button background hover color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1636
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1652
+msgid "Change subscribe to newsletter button text hover color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1654
+#: includes/customizer/customizer-settings.class.php:2783
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1671
+msgid "Change title box version 1 background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1673
+msgid "V1 Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1689
+msgid "Change title box version 1 border color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1691
+msgid "V1 Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1707
+msgid "Change title box version 1 text color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1709
+msgid "V1 Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1725
+msgid "Change title box version 2 overlay background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1727
+msgid "V2 Overlay Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1743
+msgid "Change title box version 3 overlay background color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1745
+msgid "V3 Overlay Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1761
+msgid "Change title box social icons color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1763
+msgid "Social Icons Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1779
+msgid "Change title box social icons hover color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1781
+msgid "Social Icons Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1797
+msgid ""
+"Change title box version 1 category section left and right line background "
+"color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1799
+msgid "V1 Category Section Lines Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1815
+msgid ""
+"Change title box version 3 category section left and right line background "
+"color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1817
+msgid "V3 Category Section Lines Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1833
+msgid "Change title box version 2 text color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1835
+msgid "V2 Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1851
+msgid "Change title box version 3 text color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1853
+msgid "V3 Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1869
+msgid "Change title box version 1 & 3 post meta color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1871
+msgid "V1 & V3 Post Meta Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1887
+msgid "Change title box version 1 & 3 category hover color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1889
+msgid "V1 & V3 Category Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1906
+msgid "Posts text color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1927
+msgid "Posts hover color."
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1929
+msgid "Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1948
+msgid "Posts category section left and right lines color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1950
+msgid "Category Lines Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1966
+msgid "Masonry version 2 posts background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1968
+msgid "Masonry V2 Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1984
+msgid "Posts meta(date and author) color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:1986
+msgid "Posts Meta Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2002
+msgid "Change read more button background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2004
+msgid "Read More Button BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2020
+msgid "Change read more button text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2022
+msgid "Read More Button Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2038
+msgid "Change read more button border color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2040
+msgid "Read More Button Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2056
+msgid "Change read more button background hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2058
+msgid "Read More Button BG Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2074
+msgid "Change read more button text hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2076
+msgid "Read More Button Text Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2092
+msgid "Change read more button border hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2094
+msgid "Read More Button Border Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2110
+msgid "Change featured gallery navigation buttons background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2112
+msgid "Featured Gallery Navigation Buttons BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2129
+msgid "Change featured gallery navigation buttons text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2131
+msgid "Featured Gallery Navigation Buttons Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2148
+msgid "Change standard & list posts border color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2150
+msgid "Standard & List Posts Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2166
+msgid "Change standard & list posts hash character color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2168
+msgid "Standard & List Posts Hash Character Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2184
+msgid "Change list posts no featured image section background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2186
+msgid "No Featured Image Section On List Posts Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2202
+msgid "Change list posts no featured image section icon color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2204
+msgid "No Featured Image Section On List Posts Icon Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2220
+msgid "Change sticky post border top color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2222
+msgid "Sticky Post Border Top Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2238
+msgid "Change sticky post masonry version 2 layout background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2240
+msgid "Sticky Post Masonry V2 BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2257
+msgid "Single post content color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2259
+msgid "Post Content Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2275
+msgid "Single post content link & list item start icon color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2277
+msgid "Post Content Link Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2293
+msgid "Single post content quote border color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2295
+msgid "Post Content Quote Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2311
+msgid "Single post content quote background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2313
+msgid "Post Content Quote BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2329
+msgid "Single post content quote version 2 text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2331
+msgid "Post Content Quote V2 Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2347
+msgid "Single post or page content navigation border color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2349
+msgid "Post or Page Content Navigation Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2365
+msgid "Single post or page content navigation text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2367
+msgid "Post or Page Content Navigation Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2383
+msgid "Single post or page content navigation text hover & active link color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2385
+msgid "Post or Page Content Navigation Text Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2401
+msgid "Post tag background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2403
+msgid "Tag BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2419
+msgid "Post tag text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2421
+msgid "Tag Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2437
+msgid "Post tag background hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2439
+msgid "Tag BG Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2455
+msgid "Post tag text hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2457
+msgid "Tag Text Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2473
+msgid "Single post share icons & number of comments text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2475
+msgid "Share Post Icons Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2491
+msgid "Single post share icons & number of comments text hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2493
+msgid "Share Post Icons Text Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2509
+msgid "Change related posts heading background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2511
+msgid "Related Posts Heading BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2527
+msgid "Change related posts heading text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2529
+msgid "Related Posts Heading Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2545
+msgid "Change related posts border color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2547
+msgid "Related Posts Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2563
+msgid "Change related posts overlay background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2565
+msgid "Related Posts Overlay Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2581
+msgid "Single post about author box background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2583
+msgid "About Author Box BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2599
+msgid "Single post about author box text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2601
+msgid "About Author Box Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2617
+msgid "Single post about author box author name or username color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2619
+msgid "About Author Box Author Name Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2635
+msgid "Single post about author box icons color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2637
+msgid "About Author Box Icons Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2653
+msgid "Single post about author box icons hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2655
+msgid "About Author Box Icons Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2672
+msgid "Change contact form 7 text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2690
+msgid "Change contact form 7 fields border color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2692
+msgid "Fields Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2709
+msgid "Change contact form 7 button background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2711
+#: includes/customizer/customizer-settings.class.php:3458
+#: includes/customizer/customizer-settings.class.php:3639
+msgid "Button BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2727
+msgid "Change contact form 7 button text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2745
+msgid "Change contact form 7 button border color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2747
+msgid "Button Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2763
+msgid "Change contact form 7 button background hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2765
+msgid "Button BG Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2781
+msgid "Change contact form 7 button text hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2799
+msgid "Change contact form 7 button border hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2801
+msgid "Button Border Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2818
+msgid "Change recipe card text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2836
+msgid "Change recipe card background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2838
+#: includes/customizer/customizer-settings.class.php:3976
+msgid "BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2854
+msgid "Change recipe card border color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2872
+msgid "Change recipe card print button text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2874
+msgid "Print Button Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2890
+msgid "Change recipe card print button background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2892
+msgid "Print Button BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2908
+msgid "Change recipe card print button text hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2910
+msgid "Print Button Text Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2926
+msgid "Change recipe card print button background hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2928
+msgid "Print Button BG Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2944
+msgid "Change recipe card headings text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2946
+msgid "Headings Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2963
+msgid ""
+"Change recipe card instructions number circle background color & list items "
+"dot color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2965
+msgid "Instructions Number - Circle BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2981
+msgid "Change recipe card yields text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:2983
+msgid "Yields Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3000
+msgid "Comments text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3018
+msgid "Comments border bottom color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3036
+msgid "Comments meta(date) color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3038
+msgid "Date Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3054
+msgid "Comments content link color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3056
+msgid "Link Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3072
+msgid "Comments reply button text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3074
+msgid "Reply Button Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3090
+msgid "Comments reply button background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3092
+msgid "Reply Button BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3108
+msgid "Comments reply button text hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3110
+msgid "Reply Button Text Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3126
+msgid "Comments reply button background hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3128
+msgid "Reply Button BG Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3144
+msgid "Add Comment section text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3146
+msgid "Leave Comment Section Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3163
+msgid "Add Comment section highlighted color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3165
+msgid "Leave Comment Section Highlighted Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3181
+msgid "Add Comment section form fields border color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3183
+msgid "Leave Comment Section Form Fields Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3200
+msgid "Add Comment section form fields border color on focus"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3202
+msgid "Leave Comment Section Form Fields Border Color on Focus"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3219
+msgid "Change Post comment button text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3221
+msgid "Post Comment Button Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3237
+msgid "Change Post comment button background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3239
+msgid "Post Comment Button BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3255
+msgid "Change Post comment button border color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3257
+msgid "Post Comment Button Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3273
+msgid "Change Post comment button text hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3275
+msgid "Post Comment Button Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3291
+msgid "Change Post comment button background hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3293
+msgid "Post Comment Button BG Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3309
+msgid "Change Post comment button border hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3311
+msgid "Post Comment Button Border Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3328
+msgid "Photo gallery page image overlay background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3330
+msgid "Image Overlay BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3365
+msgid "Nothing found section text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3383
+msgid "Nothing found section form background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3385
+msgid "Form BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3401
+msgid "Nothing found section search button hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3403
+msgid "Search Button Text Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3420
+#: includes/customizer/customizer-settings.class.php:3438
+msgid "Navigation buttons text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3422
+#: includes/customizer/customizer-settings.class.php:3440
+msgid "Buttons Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3456
+msgid "Navigation V1 and V3 button background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3474
+msgid "Navigation active button background and on hover background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3476
+msgid "Active Button BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3492
+msgid "Navigation V2 button background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3494
+msgid "V2 Button BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3510
+msgid "Single post navigation text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3512
+msgid "Single Post Nav Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3528
+msgid "Single post navigation previous and next text - text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3530
+msgid "Single Nav Previous & Next Text - Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3546
+msgid "Single post navigation text hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3548
+msgid "Single Post Nav Text Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3565
+msgid "Image overlay background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3567
+msgid "Overlay BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3601
+msgid "Heading text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3603
+msgid "Heading Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3656
+msgid "Change sidebar widgets text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3658
+msgid "Widgets Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3677
+msgid "Change sidebar widgets border color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3679
+msgid "Widgets Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3695
+msgid "Change sidebar widgets title border bottom color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3697
+msgid "Widgets Title Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3713
+msgid "Change sidebar widgets text hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3715
+msgid "Widgets Text Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3734
+msgid ""
+"Change sidebar widgets form fields background color & tags widget tag "
+"background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3736
+msgid "Widgets Form Fields BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3753
+msgid "Change jetpack subscriptions widget button background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3755
+msgid "Jetpack Subscription Widget Button BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3771
+msgid ""
+"Change tags widget tag hover background color, jetpack subscriptions widget "
+"button hover background color and calendar widget todays date bg color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3773
+msgid "Tag Button BG Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3790
+msgid ""
+"Change tags widget tag hover text color, jetpack subscriptions widget button "
+"hover text color and calendar widget todays date text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3792
+msgid "Tag Button Text Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3809
+msgid "Change calendar widget post dates background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3811
+msgid "Calendar Widget Post Dates BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3827
+msgid "Change calendar widget post dates text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3829
+msgid "Calendar Widget Post Dates Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3845
+msgid "Change recent post & rss widget post date text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3847
+msgid "Recent Posts Post Date Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3865
+msgid "Change instagram follow me box background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3867
+msgid "Follow Me Box BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3883
+msgid "Change instagram follow me box text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3885
+msgid "Follow Me Box Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3901
+msgid "Change instagram follow me button text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3903
+msgid "Follow Me Button Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3919
+msgid "Change instagram follow me button background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3921
+msgid "Follow Me Button BG Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3937
+msgid "Change instagram follow me button text hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3939
+msgid "Follow Me Button Text Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3955
+msgid "Change instagram follow me button background hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3957
+msgid "Follow Me Button BG Hover Color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3974
+msgid "Change footer background color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:3992
+msgid "Change footer text color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:4010
+msgid "Change footer icons hover color"
+msgstr ""
+
+#: includes/customizer/customizer-settings.class.php:4012
+msgid "Icons Hover Color"
+msgstr ""
+
+#: includes/instagram/instagram.class.php:33
+msgid "Account is private. Please make it public to see your images."
+msgstr ""
+
+#: includes/instagram/instagram.class.php:63
+msgid "Inavlid type returned!"
+msgstr ""
+
+#: includes/instagram/instagram.class.php:160
+msgid "follow"
+msgstr ""
+
+#: includes/instagram/instagram.class.php:160
+msgid "me"
+msgstr ""
+
+#: includes/instagram/instagram.class.php:301
+msgid "follow me"
+msgstr ""
+
+#: includes/instagram/instagram.class.php:346
+msgid "Please make sure you have entered correct username."
+msgstr ""
+
+#: includes/navigation/navigation.class.php:20
+msgid "Newer posts"
+msgstr ""
+
+#: includes/navigation/navigation.class.php:20
+msgid "Older posts"
+msgstr ""
+
+#: includes/navigation/navigation.class.php:35
+msgid "Prev"
+msgstr ""
+
+#: includes/navigation/navigation.class.php:36
+msgid "Next"
+msgstr ""
+
+#: includes/post-partials/post-partials.class.php:279
+msgid "by"
+msgstr ""
+
+#: includes/post-partials/post-partials.class.php:287
+msgid "on"
+msgstr ""
+
+#: includes/post-partials/post-partials.class.php:359
+msgid "No comments"
+msgstr ""
+
+#: includes/post-partials/post-partials.class.php:360
+msgid "comment"
+msgstr ""
+
+#: includes/post-partials/post-partials.class.php:361
+msgid "comments"
+msgstr ""
+
+#: includes/post-partials/post-partials.class.php:427
+#: includes/post-partials/post-partials.class.php:446
+msgid "Next Page <i class=\"fa fa-long-arrow-right\"></i>"
+msgstr ""
+
+#: includes/post-partials/post-partials.class.php:428
+#: includes/post-partials/post-partials.class.php:447
+msgid "<i class=\"fa fa-long-arrow-left\"></i> Prev Page"
+msgstr ""
+
+#: includes/post-partials/post-partials.class.php:466
+msgid "read more"
+msgstr ""
+
+#: includes/post-partials/post-partials.class.php:741
+msgid "Related Posts"
+msgstr ""
+
+#: includes/user-fields/user-fields.class.php:28
+msgid "PinkButterflies Extra Author Fields"
+msgstr ""
+
+#: includes/user-fields/user-fields.class.php:32
+msgid "Author Image"
+msgstr ""
+
+#: includes/user-fields/user-fields.class.php:50
+msgid "Change image"
+msgstr ""
+
+#: includes/user-fields/user-fields.class.php:52
+msgid "Add image"
+msgstr ""
+
+#: includes/user-fields/user-fields.class.php:56
+msgid "Remove image"
+msgstr ""
+
+#: includes/user-fields/user-fields.class.php:58
+msgid ""
+"If this image is not set Gravatar Profile Picture will be used. Recommended "
+"image size is 120x120 pixels or any other same height and width size greater "
+"than 120px."
+msgstr ""
+
+#: includes/user-fields/user-fields.class.php:62
+msgid "Add social profiles"
+msgstr ""
+
+#: includes/user-fields/user-fields.class.php:80
+#: includes/user-fields/user-fields.class.php:114
+msgid "Delete"
+msgstr ""
+
+#: includes/user-fields/user-fields.class.php:92
+msgid "Add new social button"
+msgstr ""
+
+#: includes/widgets/about-widget.class.php:11
+msgid "About widget"
+msgstr ""
+
+#: includes/widgets/about-widget.class.php:13
+msgid "PB: About widget"
+msgstr ""
+
+#: includes/widgets/about-widget.class.php:26
+msgid "About me"
+msgstr ""
+
+#: includes/widgets/about-widget.class.php:67
+msgid "Image URL:"
+msgstr ""
+
+#: includes/widgets/about-widget.class.php:71
+msgid "About Author:"
+msgstr ""
+
+#: includes/widgets/recent-posts-widget.class.php:11
+msgid "Most recent posts with thumbnail"
+msgstr ""
+
+#: includes/widgets/recent-posts-widget.class.php:13
+msgid "PB: Recent posts"
+msgstr ""
+
+#: includes/widgets/recent-posts-widget.class.php:24
+#: includes/widgets/recent-posts-widget.class.php:96
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/recent-posts-widget.class.php:101
+#: includes/widgets/social-widget.class.php:112
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/recent-posts-widget.class.php:105
+msgid "Number of posts:"
+msgstr ""
+
+#: includes/widgets/social-widget.class.php:11
+msgid "Social widget"
+msgstr ""
+
+#: includes/widgets/social-widget.class.php:13
+msgid "PB: Social widget"
+msgstr ""
+
+#: includes/widgets/social-widget.class.php:24
+#: includes/widgets/social-widget.class.php:90
+msgid "Follow me"
+msgstr ""
+
+#: page-gallery.php:44
+msgid "Load More"
+msgstr ""
+
+#: partials/category/category-v1.php:21
+msgid "Browsing category"
+msgstr ""
+
+#: partials/category/category-v2.php:15
+msgid "Browsing Category"
+msgstr ""
+
+#: partials/content-none.php:5
+msgid "To publish your first post click"
+msgstr ""
+
+#: partials/content-none.php:6
+msgid "here"
+msgstr ""
+
+#: partials/content-none.php:9
+msgid "Nothing is here. Perhaps searching can help."
+msgstr ""
+
+#: search.php:13
+msgid "SEARCH RESULTS FOR:"
+msgstr ""
+
+#: search.php:41
+msgid "Nothing found"
+msgstr ""
+
+#: search.php:42
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search and hit enter"
+msgstr ""
+
+#: tag.php:13
+msgid "Tag"
+msgstr ""

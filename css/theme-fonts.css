@@ -1,0 +1,112 @@
+/*
+font-family: 'Merriweather', serif;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Shadows Into Light Two', cursive;
+*/
+/****************************************
+  Fonts
+ ***************************************/
+/* Body */
+body,
+input,
+select,
+textarea{
+    font-family: 'Merriweather', serif;
+}
+
+/* Heading */
+h1,
+h2,
+h3,
+h4,
+h5{
+    font-family: 'Kaushan Script', cursive;
+}
+
+/* Heading font 2 */
+h6{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Menu */
+#main-menu a,
+#mobile-menu-trigger,
+#top-menu a,
+.version-3 #main-menu ul a,
+#mobile-menu li{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Menu Main V3 */
+.version-3 #main-menu a,
+.version-3 #mobile-menu-trigger{
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+/* Categories */
+#featured-slider .item .categories a,
+#featured-slider-2 .item .text-wrap .categories a,
+#featured-slider-3 .item .text-wrap .categories a,
+.post .categories a,
+#title-box.v3 .categories div a,
+#title-box.v1 .categories div a{
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+/* Buttons */
+.post footer .read-more-wrap a,
+.post .read-more-wrap a,
+.read-more-wrap a,
+.pb-navigation a,
+.pb-navigation span,
+.jetpack_subscription_widget #subscribe-submit input,
+.null-instagram-feed p.clear a,
+#instagram-wrap .pb-instagram-boxes .pb-instagram-box.follow-box .overlay a,
+#subscribe-to-newsletter form button,
+.page-404-content a.btn,
+.comment .comment-body .reply a,
+.comment-respond .form-submit input,
+.recipe-wrap .buttons a,
+.wpcf7 form p input[type="submit"],
+.post-password-form input[type="submit"],
+#subscribe-to-newsletter form input[type="submit"]{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Blockquote */
+.single-post-content blockquote{
+    font-family: 'Kaushan Script', cursive;
+}
+
+/* Title Box */
+#title-box p.sub-title{
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+/* Recipe Wrap Headings */
+.recipe-wrap .ingredients h3,
+.recipe-wrap .instructions h3,
+.recipe-wrap .notes h3{
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+/* Recipe Wrap Intruction Number */
+.recipe-wrap .instructions p span{
+    font-family: 'Kaushan Script', cursive;
+}
+
+/* 404 Page H1 */
+.page-404-content h1{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Widget Calendar */
+.widget_calendar #wp-calendar{
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+/* Footer */
+.footer-text p{
+    font-family: 'Montserrat', sans-serif;
+}

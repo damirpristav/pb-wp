@@ -1,0 +1,166 @@
+/* ================ Social Icons Custom Control Styles ================ */
+.prt-social-custom .prt-social-btn{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.prt-social-custom .prt-social-btn .preview-btn{
+    background: #fff;
+    border: 1px solid #eaeaea;
+    color: #3a3939;
+    padding: 15px 100px 15px 15px;
+    font-size: 16px;
+    position: relative;
+    display: block;
+}
+
+.prt-social-custom .prt-social-btn .preview-btn .inner{
+    position: relative;
+    padding-left: 25px;
+}
+
+.prt-social-custom .prt-social-btn .preview-btn .inner .fab{
+    position: absolute;
+    top: 2px;
+    left: 0;
+}
+
+.prt-social-custom .prt-social-btn .preview-btn .inner .name{
+    display: none;
+}
+
+.prt-social-custom .prt-social-btn .preview-btn .sort{
+    position: absolute;
+    top: 0;
+    right: 50px;
+    width: 50px;
+    height: 100%;
+    background: #555;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+
+.prt-social-custom .prt-social-btn .preview-btn .sort .fas{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    margin-top: -8px;
+    width: 100%;
+}
+
+.prt-social-custom .prt-social-btn .preview-btn .remove{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 100%;
+    background: #222;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+
+.prt-social-custom .prt-social-btn .preview-btn .remove .fas{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    margin-top: -8px;
+    width: 100%;
+}
+
+.prt-social-custom .prt-social-btn .edit-btn-wrap{
+    padding: 10px;
+    background: #f8f8f8;
+}
+
+.prt-new-social-btn{
+    display: block;
+    background: #f8f8f8;
+    padding: 10px;
+}
+
+.prt-new-social-btn select,
+.prt-new-social-btn input,
+.prt-social-custom .prt-social-btn .edit-btn-wrap input.url{
+    display: block;
+    width: 100%;
+    border: 1px solid #eaeaea;
+    padding: 8px 10px;
+    height: auto;
+    margin-bottom: 10px !important;
+}
+
+.prt-social-custom .prt-social-btn .edit-btn-wrap input.url{
+    margin-bottom: 0 !important;
+}
+
+/* ================ Toggle Checkbox Custom Control Styles ================ */
+.customize-control-checkbox label{
+    margin-left: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 28px;
+}
+
+.onoffswitch_label{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -1px;
+    width: 200px;
+}
+
+.onoffswitch {
+    position: relative;
+    width: 40px;
+    display: inline-block;
+    float: right;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select: none;
+}
+
+.onoffswitch-checkbox {
+    display: none!important;
+}
+
+.onoffswitch-label {
+    display: block;
+    overflow: hidden;
+    cursor: pointer;
+    height: 18px;
+    padding: 0;
+    line-height: 18px;
+    border: 2px solid #9E9E9E;
+    border-radius: 18px;
+    background-color: #9E9E9E;
+    transition: background-color 0.2s ease-in;
+}
+
+.onoffswitch-label:before {
+    content: "";
+    display: block;
+    width: 18px;
+    margin: 0;
+    background: #EBEBEB;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 20px;
+    border: 2px solid #9E9E9E;
+    border-radius: 18px;
+    transition: all 0.2s ease-in 0s;
+}
+
+.onoffswitch-checkbox:checked + .onoffswitch-label {
+    background-color: #42A5F5;
+}
+
+.onoffswitch-checkbox:checked + .onoffswitch-label,
+.onoffswitch-checkbox:checked + .onoffswitch-label:before {
+    border-color: #42A5F5;
+}
+
+.onoffswitch-checkbox:checked + .onoffswitch-label:before {
+    right: 0;
+}

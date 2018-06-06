@@ -1,0 +1,112 @@
+<tr>
+    <th><label for="prt_pb_author_fb"><?php _e( 'Facebook', 'pinkbutterflies' ); ?></label></th>
+    <td>
+        <input type="text" name="prt_pb_author_fb" id="prt_pb_author_fb" value="<?php echo esc_attr( get_the_author_meta( 'prt_pb_author_fb', $user->ID ) ); ?>" class="regular-text" /><br />
+        <span class="description"><?php _e( 'Please enter your Facebook profile link.', 'pinkbutterflies' ); ?></span>
+    </td>
+</tr>
+<tr>
+    <th><label for="prt_pb_author_tw"><?php _e( 'Twitter', 'pinkbutterflies' ); ?></label></th>
+    <td>
+        <input type="text" name="prt_pb_author_tw" id="prt_pb_author_tw" value="<?php echo esc_attr( get_the_author_meta( 'prt_pb_author_tw', $user->ID ) ); ?>" class="regular-text" /><br />
+        <span class="description"><?php _e( 'Please enter your Twitter profile link.', 'pinkbutterflies' ); ?></span>
+    </td>
+</tr>
+<tr>
+    <th><label for="prt_pb_author_insta"><?php _e( 'Instagram', 'pinkbutterflies' ); ?></label></th>
+    <td>
+        <input type="text" name="prt_pb_author_insta" id="prt_pb_author_insta" value="<?php echo esc_attr( get_the_author_meta( 'prt_pb_author_insta', $user->ID ) ); ?>" class="regular-text" /><br />
+        <span class="description"><?php _e( 'Please enter your Instagram profile link.', 'pinkbutterflies' ); ?></span>
+    </td>
+</tr>
+<tr>
+    <th><label for="prt_pb_author_google"><?php _e( 'Google +', 'pinkbutterflies' ); ?></label></th>
+    <td>
+        <input type="text" name="prt_pb_author_google" id="prt_pb_author_google" value="<?php echo esc_attr( get_the_author_meta( 'prt_pb_author_google', $user->ID ) ); ?>" class="regular-text" /><br />
+        <span class="description"><?php _e( 'Please enter your Google Plus profile link.', 'pinkbutterflies' ); ?></span>
+    </td>
+</tr>
+<tr>
+    <th><label for="prt_pb_author_youtube"><?php _e( 'Youtube', 'pinkbutterflies' ); ?></label></th>
+    <td>
+        <input type="text" name="prt_pb_author_youtube" id="prt_pb_author_youtube" value="<?php echo esc_attr( get_the_author_meta( 'prt_pb_author_youtube', $user->ID ) ); ?>" class="regular-text" /><br />
+        <span class="description"><?php _e( 'Please enter your Youtube profile link.', 'pinkbutterflies' ); ?></span>
+    </td>
+</tr>
+<tr>
+    <th><label for="prt_pb_author_tumblr"><?php _e( 'Tumblr', 'pinkbutterflies' ); ?></label></th>
+    <td>
+        <input type="text" name="prt_pb_author_tumblr" id="prt_pb_author_tumblr" value="<?php echo esc_attr( get_the_author_meta( 'prt_pb_author_tumblr', $user->ID ) ); ?>" class="regular-text" /><br />
+        <span class="description"><?php _e( 'Please enter your Tumblr profile link.', 'pinkbutterflies' ); ?></span>
+    </td>
+</tr>
+<tr>
+    <th><label for="prt_pb_author_linkedin"><?php _e( 'Linkedin', 'pinkbutterflies' ); ?></label></th>
+    <td>
+        <input type="text" name="prt_pb_author_linkedin" id="prt_pb_author_linkedin" value="<?php echo esc_attr( get_the_author_meta( 'prt_pb_author_linkedin', $user->ID ) ); ?>" class="regular-text" /><br />
+        <span class="description"><?php _e( 'Please enter your Linkedin profile link.', 'pinkbutterflies' ); ?></span>
+    </td>
+</tr>
+<tr>
+    <th><label for="prt_pb_author_pin"><?php _e( 'Pinterest', 'pinkbutterflies' ); ?></label></th>
+    <td>
+        <input type="text" name="prt_pb_author_pin" id="prt_pb_author_pin" value="<?php echo esc_attr( get_the_author_meta( 'prt_pb_author_pin', $user->ID ) ); ?>" class="regular-text" /><br />
+        <span class="description"><?php _e( 'Please enter your Pinterest profile link.', 'pinkbutterflies' ); ?></span>
+    </td>
+</tr>
+<tr>
+    <th><label for="prt_pb_author_behance"><?php _e( 'Behance', 'pinkbutterflies' ); ?></label></th>
+    <td>
+        <input type="text" name="prt_pb_author_behance" id="prt_pb_author_behance" value="<?php echo esc_attr( get_the_author_meta( 'prt_pb_author_behance', $user->ID ) ); ?>" class="regular-text" /><br />
+        <span class="description"><?php _e( 'Please enter your Behance profile link.', 'pinkbutterflies' ); ?></span>
+    </td>
+</tr>
+<tr>
+    <th><label for="prt_pb_author_dribbble"><?php _e( 'Dribbble', 'pinkbutterflies' ); ?></label></th>
+    <td>
+        <input type="text" name="prt_pb_author_dribbble" id="prt_pb_author_dribbble" value="<?php echo esc_attr( get_the_author_meta( 'prt_pb_author_dribbble', $user->ID ) ); ?>" class="regular-text" /><br />
+        <span class="description"><?php _e( 'Please enter your Dribbble profile link.', 'pinkbutterflies' ); ?></span>
+    </td>
+</tr>
+<tr>
+    <th><label for="prt_pb_author_github"><?php _e( 'Github', 'pinkbutterflies' ); ?></label></th>
+    <td>
+        <input type="text" name="prt_pb_author_github" id="prt_pb_author_github" value="<?php echo esc_attr( get_the_author_meta( 'prt_pb_author_github', $user->ID ) ); ?>" class="regular-text" /><br />
+        <span class="description"><?php _e( 'Please enter your Github profile link.', 'pinkbutterflies' ); ?></span>
+    </td>
+</tr>
+<tr>
+    <th><label for="prt_pb_author_digg"><?php _e( 'Digg', 'pinkbutterflies' ); ?></label></th>
+    <td>
+        <input type="text" name="prt_pb_author_digg" id="prt_pb_author_digg" value="<?php echo esc_attr( get_the_author_meta( 'prt_pb_author_digg', $user->ID ) ); ?>" class="regular-text" /><br />
+        <span class="description"><?php _e( 'Please enter your Digg profile link.', 'pinkbutterflies' ); ?></span>
+    </td>
+</tr>
+<tr>
+    <th><label for="prt_pb_author_soundcloud"><?php _e( 'Soundcloud', 'pinkbutterflies' ); ?></label></th>
+    <td>
+        <input type="text" name="prt_pb_author_soundcloud" id="prt_pb_author_soundcloud" value="<?php echo esc_attr( get_the_author_meta( 'prt_pb_author_soundcloud', $user->ID ) ); ?>" class="regular-text" /><br />
+        <span class="description"><?php _e( 'Please enter your Soundcloud profile link.', 'pinkbutterflies' ); ?></span>
+    </td>
+</tr>
+<tr>
+    <th><label for="prt_pb_author_steam"><?php _e( 'Steam', 'pinkbutterflies' ); ?></label></th>
+    <td>
+        <input type="text" name="prt_pb_author_steam" id="prt_pb_author_steam" value="<?php echo esc_attr( get_the_author_meta( 'prt_pb_author_steam', $user->ID ) ); ?>" class="regular-text" /><br />
+        <span class="description"><?php _e( 'Please enter your Steam profile link.', 'pinkbutterflies' ); ?></span>
+    </td>
+</tr>
+<tr>
+    <th><label for="prt_pb_author_vimeo"><?php _e( 'Vimeo', 'pinkbutterflies' ); ?></label></th>
+    <td>
+        <input type="text" name="prt_pb_author_vimeo" id="prt_pb_author_vimeo" value="<?php echo esc_attr( get_the_author_meta( 'prt_pb_author_vimeo', $user->ID ) ); ?>" class="regular-text" /><br />
+        <span class="description"><?php _e( 'Please enter your Vimeo profile link.', 'pinkbutterflies' ); ?></span>
+    </td>
+</tr>
+<tr>
+    <th><label for="prt_pb_author_vine"><?php _e( 'Vine', 'pinkbutterflies' ); ?></label></th>
+    <td>
+        <input type="text" name="prt_pb_author_vine" id="prt_pb_author_vine" value="<?php echo esc_attr( get_the_author_meta( 'prt_pb_author_vine', $user->ID ) ); ?>" class="regular-text" /><br />
+        <span class="description"><?php _e( 'Please enter your Vine profile link.', 'pinkbutterflies' ); ?></span>
+    </td>
+</tr>
