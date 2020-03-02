@@ -1,7 +1,6 @@
 # PinkButterflies WP theme
 
 WordPress Blog Theme created for bloggers. It is free
-[Live Preview](http://damirp.com/work/pb/)
 
 ## Features
 * Responsive Layout
